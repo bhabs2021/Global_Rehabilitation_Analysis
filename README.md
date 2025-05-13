@@ -17,9 +17,10 @@ Provide interactive Power BI dashboards for stakeholders
 
 ## How to Use This Repository
 1️) Clone the repository
-2) Open the Rehab_Data.PBIX file
-3) Explore interactive dashboards and filter data
-4️) Use insights to support health policy & research
+2) Open the Global_Rehabilitation_Analysis.pptm (or the PDF)
+3) Understand the key figures and findings.
+4) Open the Rehabilitation_Data.PBIX file
+5) Explore interactive dashboards and filter data
 
 ## Contributors 
 B.Lims
